@@ -1,11 +1,11 @@
-# Sora2 Manager
-<img width="1902" height="1191" alt="image" <img width="1263" height="789" alt="截图" src="https://github.com/user-attachments/assets/8dcb91f8-1d64-4963-aab9-a8dd927a2cc3" />
+# Sora2 视频生成管理器
+<img width="1263" height="789" alt="截图" src="https://github.com/user-attachments/assets/8dcb91f8-1d64-4963-aab9-a8dd927a2cc3" />
 
 一款面向生产环境的专业级 Sora 视频生成桌面管理工作站，搭配 https://github.com/TheSmallHanCat/sora2api 使用。基于 Electron + React + Tailwind CSS 构建，旨在通过自动化流水线解决 AI 视频创作中的重复劳动问题。
 
 # 🌟 核心特性
 
-多模态生成：支持 文生视频 (Text-to-Video) 与 图生视频 (Image-to-Video)。
+多模态生成：支持 文生视频 (Text-to-Video) 与 图生视频 (Image-to-Video)、视频风格、创建角色等
 
 自动化批量生产：
 
@@ -74,3 +74,5 @@ API Key: 你的访问凭证。
 本程序仅作为一个 API 客户端工具。生成的视频内容版权及其合规性由 API 提供方及使用者本人负责。请在遵守当地法律法规的前提下使用。
 
 如果这个项目对你有帮助，欢迎点一个 Star ⭐️
+
+项目原创来自：J-Hajime-S
