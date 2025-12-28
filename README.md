@@ -1,5 +1,5 @@
 # Sora2 Manager
-<img width="1902" height="1191" alt="image" src="https://github.com/user-attachments/assets/1e6f1f8f-5875-4c73-9bb0-ebd248406d56" />
+<img width="1902" height="1191" alt="image" <img width="1263" height="789" alt="截图" src="https://github.com/user-attachments/assets/8dcb91f8-1d64-4963-aab9-a8dd927a2cc3" />
 
 一款面向生产环境的专业级 Sora 视频生成桌面管理工作站，搭配 https://github.com/TheSmallHanCat/sora2api 使用。基于 Electron + React + Tailwind CSS 构建，旨在通过自动化流水线解决 AI 视频创作中的重复劳动问题。
 
